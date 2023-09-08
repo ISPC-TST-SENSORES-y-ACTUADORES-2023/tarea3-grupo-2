@@ -1,4 +1,4 @@
-# Mini Estación Meteorológica en Proteus con Arduino
+# Mini Estación Meteorológica en Wokwi con Arduino Nano
 
 Este proyecto es una simulación en Wokwi de una mini estación meteorológica que utiliza un Arduino NANO junto con sensores de temperatura, humedad el Dht22 y presión atmosférica BMP280 (este ultimo simulado con un potenciometro) para tomar lecturas de los parámetros físicos del clima.
 
