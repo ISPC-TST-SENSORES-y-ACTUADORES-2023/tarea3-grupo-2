@@ -1,18 +1,18 @@
 # Hardware
 
-Esta carpeta contiene las hojas de datos (datasheets) de los sensores utilizados en el proyecto de la mini estación meteorológica. Las hojas de datos proporcionan información detallada sobre las especificaciones técnicas y el funcionamiento de los sensores.
+Esta carpeta contiene las hojas de datos (datasheets) de los componentes utilizados en el proyecto de la mini estación meteorológica. Las hojas de datos proporcionan información detallada sobre las especificaciones técnicas y el funcionamiento de los componentes.
 
-## Sensores incluidos
+## Componentes incluidos
 
-- Sensor de temperatura
-- Sensor de humedad
-- Sensor de presión atmosférica (barómetro - BMP180 o BMP280)
+- Microcontrolador arduino nano
+- Sensor de temperatura y humedad DHT22
+- Potenciometro
 
 ## Contenido
 
-- Datasheet del Sensor de Temperatura
-- Datasheet del Sensor de Humedad
-- Datasheet del Sensor de Presión Atmosférica
+- Datasheet de arduino nano
+- Datasheet del Sensor de temperatura y Humedad
+
 
 ## Uso
 
