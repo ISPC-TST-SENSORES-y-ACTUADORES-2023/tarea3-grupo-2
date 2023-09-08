@@ -1,6 +1,6 @@
 # Software
 
-Esta carpeta contiene el código fuente necesario para programar el Arduino UNO virtual y realizar la adquisición de datos desde los sensores en la simulación de la mini estación meteorológica.
+Esta carpeta contiene el código fuente necesario para programar el Arduino nano virtual y realizar la adquisición de datos desde los sensores en la simulación de la mini estación meteorológica.
 
 ## Contenido
 
@@ -8,9 +8,9 @@ Esta carpeta contiene el código fuente necesario para programar el Arduino UNO 
 
 ## Instrucciones
 
-1. Abre los archivos de código en el Arduino IDE.
+1. Abre los archivos de código en wowki.
 
-2. Carga el código en el Arduino UNO virtual en la simulación de Proteus.
+2. Carga el código en el Arduino nano virtual en la simulación de wowki.
 
 3. Ejecuta la simulación para adquirir y visualizar datos de los sensores.
 
